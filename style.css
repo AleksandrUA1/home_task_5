@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    vertical-align: top;
+    font-family: sans-serif;
+}
+.card {
+    display: inline-block;
+    width: 25%;
+    padding: 20px;
+}
+.card-img {
+    display: block;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+} 
+.card-title {
+    font-size: 22px;
+    font-weight: 400;
+}
+.card-description {
+    font-size: 14px;
+}
